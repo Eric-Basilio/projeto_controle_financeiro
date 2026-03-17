@@ -1,1 +1,7 @@
-banco de dados: postgrsql
+- banco de dados: postgrsql;
+
+- a princípio não usar o Spring Boot. A ideia é a API ser bem simples. Inicialmente fazer baseado apenas no node js, se não der ai sim escambar para o outro framework.
+
+- Deve existir a separação entre modelo, sserviços, rotas e controladores.
+
+- Front end tem que ser usando o framework angular.
