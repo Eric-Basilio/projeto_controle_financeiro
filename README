@@ -1,0 +1,3 @@
+Comandos do docker usados no projeto:
+1- Para subir o banco de dados do PostgreSQL no docker
+ `docker run --name MeuPostGres -e POSTGRES_USER=MeuUsuario -e POSTGRES_PASSWORD=MinhaSenha -p 5432:5432 -v /E/volumes/postgres:/var/lib/postgresql -d postgres:latest`
