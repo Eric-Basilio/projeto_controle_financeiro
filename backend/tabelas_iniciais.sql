@@ -32,7 +32,7 @@ create table if not exists compra (
     id_categoria_compra SERIAL PRIMARY KEY,
     id_compra INT,
     categoria VARCHAR(50),
-  )
+  );
 
   create table if not exists dono_compra (
     id_dono SERIAL PRIMARY KEY,
