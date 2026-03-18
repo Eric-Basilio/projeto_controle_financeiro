@@ -1,4 +1,6 @@
-- banco de dados: postgrsql;
+- banco de dados: postgrsql.
+
+- a aplicação final deve ser capaz de receber arquivo csv para preencher as tabelas.
 
 - a princípio não usar o Spring Boot. A ideia é a API ser bem simples. Inicialmente fazer baseado apenas no node js, se não der ai sim escambar para o outro framework.
 
